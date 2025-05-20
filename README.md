@@ -12,7 +12,7 @@ I'm interested in algorithm problem solving 🧐 animation 🎥 reading 📖 mou
 * &nbsp; [LinkedIn](http://www.linkedin.com/in/summer-xia-708b37205)  
 
 👩🏻‍💻 **I'm currently working on ...**
-* &nbsp; Amazon NASC GoAT Platform (North America Sort Center Group of Analytical Technologies)
+* &nbsp; Amazon NASC GoAT Platform (North America Sort Center - Group of Analytical Technologies)
   	- &nbsp; SDE II @ Amazon
   
 <!--
