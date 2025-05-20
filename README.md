@@ -12,11 +12,9 @@ I'm interested in algorithm problem solving 🧐 animation 🎥 reading 📖 mou
 * &nbsp; [LinkedIn](http://www.linkedin.com/in/summer-xia-708b37205)  
 
 👩🏻‍💻 **I'm currently working on ...**
-* &nbsp; Amazon Alexa Sensitive Content Intelligence (ASCI)
-  	- &nbsp; Senior Capstone Project @ Seattle University
+* &nbsp; Amazon NASC GoAT Platform (North America Sort Center Group of Analytical Technologies)
+  	- &nbsp; SDE II @ Amazon
   
-🤔 **I’m looking for help with ...**
-* &nbsp; Finding a SDE opportunity
 <!--
 **summersCodingLog/summersCodingLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
